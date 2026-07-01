@@ -1,0 +1,244 @@
+{
+  "Audiosrv": {
+    "name": "Audiosrv",
+    "category": "❓ Неизвестные",
+    "desc": "Неизвестная служба",
+    "risk": "unknown",
+    "tags": [
+      "unknown"
+    ],
+    "gaming_recommend": ""
+  },
+  "battlenet_helpersvc": {
+    "name": "battlenet_helpersvc",
+    "category": "❓ Неизвестные",
+    "desc": "Неизвестная служба",
+    "risk": "unknown",
+    "tags": [
+      "unknown"
+    ],
+    "gaming_recommend": ""
+  },
+  "BluetoothUserService_2b581": {
+    "name": "Пользовательская служба Bluetooth (польз.)",
+    "category": "Bluetooth",
+    "desc": "Пользовательский экземпляр службы Пользовательская служба Bluetooth.",
+    "risk": "low",
+    "tags": [
+      "minimal",
+      "user_instance"
+    ],
+    "gaming_recommend": "✅ Отключать вместе с bthserv если не нужен Bluetooth."
+  },
+  "CaptureService_2b581": {
+    "name": "Служба захвата экрана (польз.)",
+    "category": "Медиа",
+    "desc": "Пользовательский экземпляр службы Служба захвата экрана.",
+    "risk": "low",
+    "tags": [
+      "user_instance"
+    ],
+    "gaming_recommend": "✅ Отключать если не записываете экран."
+  },
+  "cbdhsvc_2b581": {
+    "name": "Буфер обмена (польз.)",
+    "category": "Приватность",
+    "desc": "Пользовательский экземпляр службы Буфер обмена.",
+    "risk": "low",
+    "tags": [
+      "privacy",
+      "user_instance"
+    ],
+    "gaming_recommend": "✅ Отключать для приватности."
+  },
+  "CDPUserSvc_2b581": {
+    "name": "Пользовательская служба CDP (польз.)",
+    "category": "Телеметрия",
+    "desc": "Пользовательский экземпляр службы Пользовательская служба CDP.",
+    "risk": "low",
+    "tags": [
+      "privacy",
+      "user_instance"
+    ],
+    "gaming_recommend": "✅ Можно отключать вместе с CDPSvc. Часть системы связи с телефоном, не влияет на игры."
+  },
+  "CloudflareWARPUpdater": {
+    "name": "CloudflareWARPUpdater",
+    "category": "❓ Неизвестные",
+    "desc": "Неизвестная служба",
+    "risk": "unknown",
+    "tags": [
+      "unknown"
+    ],
+    "gaming_recommend": ""
+  },
+  "ConsentUxUserSvc_2b581": {
+    "name": "ConsentUX (польз.)",
+    "category": "Система",
+    "desc": "Пользовательский экземпляр службы ConsentUX.",
+    "risk": "high",
+    "tags": [
+      "user_instance"
+    ],
+    "gaming_recommend": "🔴 НЕ ОТКЛЮЧАТЬ! Не будет запросов UAC."
+  },
+  "DeviceAssociationBrokerSvc_2b581": {
+    "name": "Брокер сопряжения устройств (польз.)",
+    "category": "Устройства",
+    "desc": "Пользовательский экземпляр службы Брокер сопряжения устройств.",
+    "risk": "low",
+    "tags": [
+      "minimal",
+      "user_instance"
+    ],
+    "gaming_recommend": "✅ Можно отключать."
+  },
+  "DevicePickerUserSvc_2b581": {
+    "name": "Выбор устройств (польз.)",
+    "category": "Устройства",
+    "desc": "Пользовательский экземпляр службы Выбор устройств.",
+    "risk": "low",
+    "tags": [
+      "user_instance"
+    ],
+    "gaming_recommend": "✅ Можно отключать."
+  },
+  "DevicesFlowUserSvc_2b581": {
+    "name": "Поток устройств (польз.)",
+    "category": "Устройства",
+    "desc": "Пользовательский экземпляр службы Поток устройств.",
+    "risk": "low",
+    "tags": [
+      "minimal",
+      "user_instance"
+    ],
+    "gaming_recommend": "✅ Можно отключать."
+  },
+  "Eaphost": {
+    "name": "Eaphost",
+    "category": "❓ Неизвестные",
+    "desc": "Неизвестная служба",
+    "risk": "unknown",
+    "tags": [
+      "unknown"
+    ],
+    "gaming_recommend": ""
+  },
+  "MessagingService_2b581": {
+    "name": "Служба сообщений (польз.)",
+    "category": "Телефония",
+    "desc": "Пользовательский экземпляр службы Служба сообщений.",
+    "risk": "low",
+    "tags": [
+      "minimal",
+      "privacy",
+      "user_instance"
+    ],
+    "gaming_recommend": "✅ Отключать для приватности."
+  },
+  "nsi": {
+    "name": "nsi",
+    "category": "❓ Неизвестные",
+    "desc": "Неизвестная служба",
+    "risk": "unknown",
+    "tags": [
+      "unknown"
+    ],
+    "gaming_recommend": ""
+  },
+  "PimIndexMaintenanceSvc_2b581": {
+    "name": "PimIndexMaintenanceSvc_2b581",
+    "category": "❓ Неизвестные",
+    "desc": "Неизвестная служба",
+    "risk": "unknown",
+    "tags": [
+      "unknown"
+    ],
+    "gaming_recommend": ""
+  },
+  "PrintWorkflowUserSvc_2b581": {
+    "name": "Рабочие процессы печати (польз.)",
+    "category": "Печать",
+    "desc": "Пользовательский экземпляр службы Рабочие процессы печати.",
+    "risk": "low",
+    "tags": [
+      "minimal",
+      "user_instance"
+    ],
+    "gaming_recommend": "✅ Отключать если нет принтера и не используете UWP-приложения для печати."
+  },
+  "RpcSs": {
+    "name": "RpcSs",
+    "category": "❓ Неизвестные",
+    "desc": "Неизвестная служба",
+    "risk": "unknown",
+    "tags": [
+      "unknown"
+    ],
+    "gaming_recommend": ""
+  },
+  "UdkUserSvc_2b581": {
+    "name": "Пользовательская служба UDK (польз.)",
+    "category": "Устройства",
+    "desc": "Пользовательский экземпляр службы Пользовательская служба UDK.",
+    "risk": "low",
+    "tags": [
+      "user_instance"
+    ],
+    "gaming_recommend": "✅ Можно отключать."
+  },
+  "UnistoreSvc_2b581": {
+    "name": "Хранение данных пользователя (польз.)",
+    "category": "Приватность",
+    "desc": "Пользовательский экземпляр службы Хранение данных пользователя.",
+    "risk": "low",
+    "tags": [
+      "privacy",
+      "user_instance"
+    ],
+    "gaming_recommend": "✅ Отключать для приватности."
+  },
+  "UserDataSvc_2b581": {
+    "name": "Пользовательские данные (польз.)",
+    "category": "Приватность",
+    "desc": "Пользовательский экземпляр службы Пользовательские данные.",
+    "risk": "low",
+    "tags": [
+      "privacy",
+      "minimal",
+      "user_instance"
+    ],
+    "gaming_recommend": "✅ Отключать для приватности."
+  },
+  "VBoxSDS": {
+    "name": "VBoxSDS",
+    "category": "❓ Неизвестные",
+    "desc": "Неизвестная служба",
+    "risk": "unknown",
+    "tags": [
+      "unknown"
+    ],
+    "gaming_recommend": ""
+  },
+  "WpnUserService_2b581": {
+    "name": "Пользовательская служба уведомлений (польз.)",
+    "category": "Уведомления",
+    "desc": "Пользовательский экземпляр службы Пользовательская служба уведомлений.",
+    "risk": "low",
+    "tags": [
+      "minimal",
+      "user_instance"
+    ],
+    "gaming_recommend": "✅ Можно отключать."
+  },
+  "zapret": {
+    "name": "zapret",
+    "category": "❓ Неизвестные",
+    "desc": "Неизвестная служба",
+    "risk": "unknown",
+    "tags": [
+      "unknown"
+    ],
+    "gaming_recommend": ""
+  }
+}

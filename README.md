@@ -3,3 +3,5 @@
 ![Version](https://img.shields.io/badge/version-2.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D4)
 ![Python](https://img.shields.io/badge/python-3.8+-3776AB)
+
+WS Manager - бесплатный программый инструмент для отключения служб в Windows.

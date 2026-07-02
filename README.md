@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3.8+-3776AB)
 
 WS Manager — бесплатное программное обеспечение для безопасного отключения служб в Windows.
+Подробнее -->> [смотреть здесь]([https://github.com/Almarus/Video-Grabber/releases](https://www.ixbt.com/live/sw/optimizaciya-windows-dlya-igr-kak-otklyuchit-nenuzhnye-sluzhby-s-pomoschyu-ws-manager.html))
 
 ## 🚀 Установка и запуск
 

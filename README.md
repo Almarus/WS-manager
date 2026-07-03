@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D4)
 ![Python](https://img.shields.io/badge/python-3.8+-3776AB)
 
-WS Manager — бесплатное программное обеспечение для безопасного отключения служб в Windows.
+WS Manager — бесплатное программное обеспечение для удобного управления службами в Windows.
 
 Подробнее -->> [смотреть здесь](https://www.ixbt.com/live/sw/optimizaciya-windows-dlya-igr-kak-otklyuchit-nenuzhnye-sluzhby-s-pomoschyu-ws-manager.html)
 
